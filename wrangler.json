@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "licenses-verification",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ba1e9919-8020-4fc3-80de-a2be66b0b06d",
+			"database_name": "licenses"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
